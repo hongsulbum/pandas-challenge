@@ -1,0 +1,3 @@
+1. Age group 20-24 have the most number of players
+2. Age group 35-29 spend the most purchasing items per person
+3. Female players spend more on the purchase per person than male players
